@@ -1,9 +1,9 @@
-#Case Study: Predicting Company Bankruptcy Using Financial Data
-#Objective: To perform an in-depth analysis of a financial dataset to predict the likelihood of a
-company going bankrupt. The analysis involves data preprocessing, exploratory data analysis
-(EDA), hypothesis testing, feature engineering and selection, and applying machine learning
-techniques for classification.
-#Tasks:
+# Case Study: Predicting Company Bankruptcy Using Financial Data
+ Objective: To perform an in-depth analysis of a financial dataset to predict the likelihood of a
+ company going bankrupt. The analysis involves data preprocessing, exploratory data analysis
+ (EDA), hypothesis testing, feature engineering and selection, and applying machine learning
+ techniques for classification.
+# Tasks:
 1. Data Understanding and Preprocessing:
 o Load and inspect the dataset.
 o Handle missing values appropriately.
@@ -27,7 +27,7 @@ o Interpret model coefficients to understand feature impact.
 o Summarize key insights and discuss implications for financial risk management.
 o Provide actionable recommendations.
 
-#Deliverables:
+# Deliverables:
  Detailed report of the analysis.
  Python code used.
  Supporting visualizations and tables.
